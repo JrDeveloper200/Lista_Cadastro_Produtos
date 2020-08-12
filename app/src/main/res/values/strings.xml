@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="modificar">Modificar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="descricao_do_produto">Descrição do Produto</string>
+    <string name="nome_do_produto">Nome do Produto</string>
+    <string name="bem_vindo">Bem Vindo ao App Lista!</string>
+    <string name="txtNomeProduto">Adicione um Produto</string>
+</resources>
